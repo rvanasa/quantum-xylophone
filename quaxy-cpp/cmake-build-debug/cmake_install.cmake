@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp
+# Install script for directory: C:/Users/Ryan/Documents/Projects/quantum-xylophone/quantum-xylophone-arduino/quantum-xylophone-cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
