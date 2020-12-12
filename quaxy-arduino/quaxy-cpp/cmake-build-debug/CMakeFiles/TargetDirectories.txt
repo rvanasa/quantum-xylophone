@@ -1,0 +1,3 @@
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/cmake-build-debug/CMakeFiles/quaxy_cpp.dir
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

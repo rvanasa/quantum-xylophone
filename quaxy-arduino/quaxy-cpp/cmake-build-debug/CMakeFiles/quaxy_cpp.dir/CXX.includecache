@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/Register.hpp
+
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/main.cpp
+complex
+-
+bitset
+-
+random
+-
+Register.hpp
+C:/Users/Ryan/Documents/Projects/quaxy/quaxy-arduino/quaxy-cpp/Register.hpp
+iostream
+-
+
