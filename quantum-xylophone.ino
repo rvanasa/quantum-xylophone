@@ -61,7 +61,6 @@ int soundDuration = 0;
 int cascadeIndex = -1;
 
 #include "QubitWatcher.hpp"
-#include "Remote.hpp"
 
 const QubitWatcher QUBIT_WATCHERS[] = {
   QubitWatcher(A0, 8, NOTE_CS4),
